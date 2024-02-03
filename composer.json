@@ -41,10 +41,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "jeferls1982\\LaravelQuickstart\\LaravelQuickstartServiceProvider"
+                "Freelabois\\LaravelQuickstart\\LaravelQuickstartServiceProvider"
             ],
             "aliases": {
-                "laravel-quickstart": "jeferls1982\\LaravelQuickstart\\Facades\\LaravelQuickstart"
+                "laravel-quickstart": "Freelabois\\LaravelQuickstart\\Facades\\LaravelQuickstart"
             }
         }
     },
