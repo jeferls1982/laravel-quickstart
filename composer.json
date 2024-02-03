@@ -30,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "jeferls1982\\LaravelQuickstart\\": "src/"
+            "Freelabois\\LaravelQuickstart\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "jeferls1982\\LaravelQuickstart\\Tests\\": "tests"
+            "Freelabois\\LaravelQuickstart\\Tests\\": "tests"
         }
     },
     "extra": {
