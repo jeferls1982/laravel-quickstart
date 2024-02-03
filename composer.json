@@ -47,5 +47,8 @@
                 "laravel-quickstart": "jeferls1982\\LaravelQuickstart\\Facades\\LaravelQuickstart"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+   
 }
